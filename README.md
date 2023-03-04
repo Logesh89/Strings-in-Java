@@ -17,5 +17,10 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/107561275/222922603-ea266823-55ea-47b2-9ed5-2d944299ad09.png)
 
+5)Pallindrome:
+
+![Screenshot (70)](https://user-images.githubusercontent.com/107561275/222923860-797ef47e-9b3b-43f9-a23c-dd462c97bd5c.png)
+
+
 
 
