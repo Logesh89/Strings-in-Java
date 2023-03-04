@@ -13,4 +13,9 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/107561275/222921868-590cdb8f-463f-44a3-a96b-6c5b2b6feb5d.png)
 
+4)Reverse the string:
+
+![Screenshot (69)](https://user-images.githubusercontent.com/107561275/222922603-ea266823-55ea-47b2-9ed5-2d944299ad09.png)
+
+
 
