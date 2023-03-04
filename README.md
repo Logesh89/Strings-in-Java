@@ -8,3 +8,9 @@ Clear out the String concept in java with the help of my repository
 2)Length of the string:
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/107561275/222920646-569d38f7-aad8-486d-a8dd-9255b2430dfd.png)
+
+3)Copy one string to another:
+
+![Screenshot (68)](https://user-images.githubusercontent.com/107561275/222921868-590cdb8f-463f-44a3-a96b-6c5b2b6feb5d.png)
+
+
