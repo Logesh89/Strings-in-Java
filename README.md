@@ -21,10 +21,14 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/107561275/222923860-797ef47e-9b3b-43f9-a23c-dd462c97bd5c.png)
 
-6)Lowercase string to uppercase string
+6)Lowercase string to uppercase string:
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/107561275/222944646-db8bc7a1-380e-4583-bd97-d1c4bef2c14a.png)
 
-7)Uppercase string to lowercase string
+7)Uppercase string to lowercase string:
 
 ![Screenshot (72)](https://user-images.githubusercontent.com/107561275/222944884-e378ed61-2a62-45b8-a6f9-44f01cee0481.png)
+
+8)String with spaces lowercase to uppercase:
+
+![Screenshot (73)](https://user-images.githubusercontent.com/107561275/222946130-c18c8d49-baaf-4515-a976-3a111ebf3b6b.png)
