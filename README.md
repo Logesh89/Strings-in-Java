@@ -41,3 +41,9 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (75)](https://user-images.githubusercontent.com/107561275/222949721-5c1dbb9a-7ada-4c3c-bf45-24cdada08f76.png)
 
+11) Count vowels,consonant and special characters:
+
+![Screenshot (76)](https://user-images.githubusercontent.com/107561275/222973829-382e02ef-09f4-47fb-9c18-c62e16b6c61c.png)
+
+
+
