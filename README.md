@@ -21,6 +21,8 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/107561275/222923860-797ef47e-9b3b-43f9-a23c-dd462c97bd5c.png)
 
+6)Lowercase string to uppercase string
 
+![Screenshot (71)](https://user-images.githubusercontent.com/107561275/222944646-db8bc7a1-380e-4583-bd97-d1c4bef2c14a.png)
 
 
