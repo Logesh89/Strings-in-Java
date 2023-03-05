@@ -33,6 +33,6 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/107561275/222946130-c18c8d49-baaf-4515-a976-3a111ebf3b6b.png)
 
-String with spaces uppercase to lowercase:
+9)String with spaces uppercase to lowercase:
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/107561275/222946295-c505bdf9-4c22-4164-af0c-0d8c6fb82fd6.png)
