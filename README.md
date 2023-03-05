@@ -36,3 +36,8 @@ Clear out the String concept in java with the help of my repository
 9)String with spaces uppercase to lowercase:
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/107561275/222946295-c505bdf9-4c22-4164-af0c-0d8c6fb82fd6.png)
+
+10)First string to uppercase:
+
+![Screenshot (75)](https://user-images.githubusercontent.com/107561275/222949721-5c1dbb9a-7ada-4c3c-bf45-24cdada08f76.png)
+
