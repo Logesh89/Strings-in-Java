@@ -1,0 +1,37 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+	    Scanner sc=new Scanner(System.in);
+	    String x=sc.nextLine();
+	    char y[]=x.toCharArray();
+	    int size=y.length;
+	    int vowcount=0;
+	    int conscount=0;
+	    int splcount=0;
+	    int i=1;
+		while(i!=size)
+		{
+		    if(y[i]>='A'&& y[i]<='z')
+		    {
+		        if(y[i]=='A'||y[i]=='E'||y[i]=='I'||y[i]=='O'||y[i]=='U')
+		        {
+		            ++vowcount;
+		        }
+		        else{
+		            ++conscount;
+		        }
+		    }
+		    else{
+		        ++splcount;
+		    }
+		    ++i;
+		
+	     }
+	     System.out.println(y);
+	     System.out.println("Consonant Count: "+conscount);
+	     System.out.println("Vowel Count: "+vowcount);
+	     System.out.println("Special Character Count: "+splcount);
+	
+    }
+}
