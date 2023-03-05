@@ -25,4 +25,6 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (71)](https://user-images.githubusercontent.com/107561275/222944646-db8bc7a1-380e-4583-bd97-d1c4bef2c14a.png)
 
+7)Uppercase string to lowercase string
 
+![Screenshot (72)](https://user-images.githubusercontent.com/107561275/222944884-e378ed61-2a62-45b8-a6f9-44f01cee0481.png)
