@@ -52,3 +52,9 @@ Clear out the String concept in java with the help of my repository
 13) Angragram.
 
 ![Screenshot (79)](https://user-images.githubusercontent.com/107561275/224723089-37184411-2399-43c4-878c-064e5e34861d.png)
+
+14) Anagram to accept the blank spaces , uppercase and lowercase letters.
+
+![Screenshot (80)](https://user-images.githubusercontent.com/107561275/224733463-de41ad03-f95c-45c7-aadd-fe46cfaa6865.png)
+
+
