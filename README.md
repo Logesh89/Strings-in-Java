@@ -45,5 +45,9 @@ Clear out the String concept in java with the help of my repository
 
 ![Screenshot (76)](https://user-images.githubusercontent.com/107561275/222973829-382e02ef-09f4-47fb-9c18-c62e16b6c61c.png)
 
+12) To verify if the string contains integers
+
+
+
 
 
