@@ -47,7 +47,5 @@ Clear out the String concept in java with the help of my repository
 
 12) To verify if the string contains integers
 
-
-
-
+![Screenshot (78)](https://user-images.githubusercontent.com/107561275/224623007-f49203d6-9234-4b33-a19c-d72a3a24dee5.png)
 
