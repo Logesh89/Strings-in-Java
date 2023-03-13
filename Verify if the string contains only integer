@@ -1,0 +1,24 @@
+import java.util.*;
+public class Main
+{
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		String x=sc.nextLine();
+		char y[]=x.toCharArray();
+		int size=y.length;
+		int i=0;
+		while(i!=size)
+		{
+		    if(y[i]>='0' && y[i]<='9')
+		    {
+		        ++i;
+		    }
+		    else{
+		        System.out.println("Not an integer string");
+		        System.exit(0);
+		    }
+		    
+		}
+		System.out.println("Integer string");
+	}
+}
